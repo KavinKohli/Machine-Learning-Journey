@@ -1,30 +1,51 @@
 # Machine Learning Journey
 
 Hi, I'm Kavin 👋  
-I'm a BCA student learning Machine Learning step-by-step with strong
-focus on fundamentals, mathematics, and real-world projects.
+I'm a BCA student learning Machine Learning with a strong focus on
+fundamentals, algorithms, and practical implementation.
 
-## 📌 What this repository contains
-- Python for Machine Learning
-- ML algorithms from scratch and using scikit-learn
-- Mini projects and end-to-end ML workflows
+This repository documents my step-by-step progress in Machine Learning,
+from data preprocessing to supervised and highlighting unsupervised learning models.
+
+---
+
+## 📂 Repository Structure
+
+### 1️⃣ Data Preprocessing
+- Handling missing values
+- Encoding categorical data
+- Column Transformer
+- Pipelines
+- Train-test split
+
+### 2️⃣ Supervised Learning
+- Linear Regression
+- Logistic Regression
+- KNN
+- Naive Bayes
+- Decision Tree (with visualization)
+- Random Forest
+
+### 3️⃣ Unsupervised Learning
+- K-Means Clustering
+- Hierarchical Clustering
+
+---
 
 ## 🧠 Learning Approach
-- First understand the math
-- Then implement from scratch
-- Then use libraries
-- Then apply to real datasets
+- Understand theory
+- Implement using Python & scikit-learn
+- Apply on real datasets
+- Evaluate and analyze results
 
-## 📈 Current Progress
-✔ Python basics  
-✔ Linear Regression  
-✔ Logistic Regression  
-✔ Decision Trees  
-⬜ Neural Networks  
+---
 
-## 🔧 Tools & Libraries
+## 🛠 Tools & Libraries
 - Python
-- NumPy, Pandas, Matplotlib, Seaborn
+- NumPy, Pandas
+- Matplotlib, Seaborn, plotly
 - Scikit-learn
 
-⭐ This repo will be updated regularly to track my learning journey.
+---
+
+⭐ This repository will be continuously updated as I progress further in ML & Deep Learning.
