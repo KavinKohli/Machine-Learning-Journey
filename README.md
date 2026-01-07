@@ -40,7 +40,7 @@ from data preprocessing to supervised and highlighting unsupervised learning mod
 
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 - Python
 - NumPy, Pandas
 - Matplotlib, Seaborn, plotly
