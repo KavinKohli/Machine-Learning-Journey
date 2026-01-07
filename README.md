@@ -29,6 +29,7 @@ from data preprocessing to supervised and highlighting unsupervised learning mod
 ### 3️⃣ Unsupervised Learning
 - K-Means Clustering
 - Hierarchical Clustering
+- DBSCAN Clustering
 
 ---
 
