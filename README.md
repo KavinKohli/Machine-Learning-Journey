@@ -32,7 +32,7 @@ from data preprocessing to supervised and highlighting unsupervised learning mod
 
 ---
 
-## 🧠 Learning Approach
+##  Learning Approach
 - Understand theory
 - Implement using Python & scikit-learn
 - Apply on real datasets
