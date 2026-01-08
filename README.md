@@ -1,6 +1,6 @@
 # Machine Learning Journey
 
-Hi, I'm Kavin 👋  
+Hello, I'm Kavin 👋  
 I'm a BCA student learning Machine Learning with a strong focus on
 fundamentals, algorithms, and practical implementation.
 
