@@ -11,14 +11,14 @@ from data preprocessing to supervised and highlighting unsupervised learning mod
 
 ## 📂 Repository Structure
 
-### 1️⃣ Data Preprocessing
+### 1: Data Preprocessing
 - Handling missing values
 - Encoding categorical data
 - Column Transformer
 - Pipelines
 - Train-test split
 
-### 2️⃣ Supervised Learning
+### 2: Supervised Learning
 - Linear Regression
 - Logistic Regression
 - KNN
@@ -26,7 +26,7 @@ from data preprocessing to supervised and highlighting unsupervised learning mod
 - Decision Tree (with visualization)
 - Random Forest
 
-### 3️⃣ Unsupervised Learning
+### 3: Unsupervised Learning
 - K-Means Clustering
 - Hierarchical Clustering
 - DBSCAN Clustering
